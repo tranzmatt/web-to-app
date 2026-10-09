@@ -2,7 +2,7 @@
   {
     "name": "WebToApp",
     "description": "Turn any website into an installable app across iOS, Android, Windows, macOS and Linux, and generate a sharing link.",
-    "stargazers_count": 132,
+    "stargazers_count": 133,
     "forks_count": 29,
     "language": "Python",
     "pushed_at": "2026-10-08T09:56:33Z",
@@ -90,6 +90,15 @@
     "html_url": "https://github.com/shiaho777/An-Harness"
   },
   {
+    "name": "LogSleuth",
+    "description": "Root-free Android logcat viewer & embeddable zero-permission logging SDK",
+    "stargazers_count": 15,
+    "forks_count": 0,
+    "language": "Kotlin",
+    "pushed_at": "2026-10-06T14:21:27Z",
+    "html_url": "https://github.com/shiaho777/LogSleuth"
+  },
+  {
     "name": "qsyy",
     "description": "汽水音乐第三方 Web 播放器 · 全端可用 · 本地缓存直读 / 在线播放 / 逐字歌词 / 音效 / 下载",
     "stargazers_count": 14,
@@ -106,15 +115,6 @@
     "language": "Swift",
     "pushed_at": "2026-10-07T08:15:41Z",
     "html_url": "https://github.com/shiaho777/MacBottle"
-  },
-  {
-    "name": "LogSleuth",
-    "description": "Root-free Android logcat viewer & embeddable zero-permission logging SDK",
-    "stargazers_count": 14,
-    "forks_count": 0,
-    "language": "Kotlin",
-    "pushed_at": "2026-10-06T14:21:27Z",
-    "html_url": "https://github.com/shiaho777/LogSleuth"
   },
   {
     "name": "echomind",
@@ -167,7 +167,7 @@
     "stargazers_count": 11,
     "forks_count": 0,
     "language": "Python",
-    "pushed_at": "2026-10-08T23:49:43Z",
+    "pushed_at": "2026-10-09T07:07:45Z",
     "html_url": "https://github.com/shiaho777/pyj-j"
   },
   {
