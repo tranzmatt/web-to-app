@@ -2,7 +2,7 @@
   {
     "name": "WebToApp",
     "description": "Turn any website into an installable app across iOS, Android, Windows, macOS and Linux, and generate a sharing link.",
-    "stargazers_count": 172,
+    "stargazers_count": 174,
     "forks_count": 38,
     "language": "Python",
     "pushed_at": "2026-10-22T03:34:28Z",
@@ -29,8 +29,8 @@
   {
     "name": "LogSleuth",
     "description": "Root-free Android logcat viewer & embeddable zero-permission logging SDK",
-    "stargazers_count": 31,
-    "forks_count": 2,
+    "stargazers_count": 32,
+    "forks_count": 3,
     "language": "Kotlin",
     "pushed_at": "2026-10-22T13:48:05Z",
     "html_url": "https://github.com/shiaho777/LogSleuth"
