@@ -2,7 +2,7 @@
   {
     "name": "WebToApp",
     "description": "Turn any website into an installable app across iOS, Android, Windows, macOS and Linux, and generate a sharing link.",
-    "stargazers_count": 194,
+    "stargazers_count": 195,
     "forks_count": 41,
     "language": "Python",
     "pushed_at": "2026-11-16T14:22:34Z",
@@ -14,7 +14,7 @@
     "stargazers_count": 41,
     "forks_count": 2,
     "language": "Go",
-    "pushed_at": "2026-11-16T18:04:47Z",
+    "pushed_at": "2026-11-17T09:22:44Z",
     "html_url": "https://github.com/shiaho777/jseek"
   },
   {
@@ -29,8 +29,8 @@
   {
     "name": "LogSleuth",
     "description": "Root-free Android logcat viewer & embeddable zero-permission logging SDK",
-    "stargazers_count": 37,
-    "forks_count": 4,
+    "stargazers_count": 38,
+    "forks_count": 5,
     "language": "Kotlin",
     "pushed_at": "2026-11-16T16:03:15Z",
     "html_url": "https://github.com/shiaho777/LogSleuth"
@@ -47,10 +47,10 @@
   {
     "name": "andmx",
     "description": "Android-native AI coding agent (AndMX)",
-    "stargazers_count": 22,
-    "forks_count": 7,
+    "stargazers_count": 23,
+    "forks_count": 8,
     "language": "Kotlin",
-    "pushed_at": "2026-11-16T17:46:53Z",
+    "pushed_at": "2026-11-17T09:12:22Z",
     "html_url": "https://github.com/shiaho777/andmx"
   },
   {
@@ -59,7 +59,7 @@
     "stargazers_count": 22,
     "forks_count": 2,
     "language": "Kotlin",
-    "pushed_at": "2026-11-16T16:09:01Z",
+    "pushed_at": "2026-11-17T09:54:46Z",
     "html_url": "https://github.com/shiaho777/WebViewIDE"
   },
   {
@@ -68,7 +68,7 @@
     "stargazers_count": 18,
     "forks_count": 0,
     "language": "Rust",
-    "pushed_at": "2026-11-16T18:08:42Z",
+    "pushed_at": "2026-11-17T09:44:32Z",
     "html_url": "https://github.com/shiaho777/revx"
   },
   {
@@ -77,7 +77,7 @@
     "stargazers_count": 17,
     "forks_count": 4,
     "language": "Kotlin",
-    "pushed_at": "2026-11-16T17:54:31Z",
+    "pushed_at": "2026-11-17T12:19:31Z",
     "html_url": "https://github.com/shiaho777/An-Harness"
   },
   {
@@ -86,8 +86,17 @@
     "stargazers_count": 17,
     "forks_count": 1,
     "language": "C",
-    "pushed_at": "2026-10-17T09:25:24Z",
+    "pushed_at": "2026-11-17T09:11:56Z",
     "html_url": "https://github.com/shiaho777/zv-codec"
+  },
+  {
+    "name": "pneuma-android",
+    "description": "Pneuma · 一部会呼吸的 AI 虚拟手机：拟真桌面、聊天、朋友圈、查手机、地图定位、语音/视频通话、日记日历。AI 角色有作息、日程、位置和长期记忆，会主动发消息、发帖互动。数据全在设备本地，联网只调你自己配置的 LLM/生图/语音 API。",
+    "stargazers_count": 16,
+    "forks_count": 13,
+    "language": "TypeScript",
+    "pushed_at": "2026-11-12T10:06:27Z",
+    "html_url": "https://github.com/shiaho777/pneuma-android"
   },
   {
     "name": "wgsql",
@@ -99,21 +108,12 @@
     "html_url": "https://github.com/shiaho777/wgsql"
   },
   {
-    "name": "pneuma-android",
-    "description": "Pneuma · 一部会呼吸的 AI 虚拟手机：拟真桌面、聊天、朋友圈、查手机、地图定位、语音/视频通话、日记日历。AI 角色有作息、日程、位置和长期记忆，会主动发消息、发帖互动。数据全在设备本地，联网只调你自己配置的 LLM/生图/语音 API。",
-    "stargazers_count": 15,
-    "forks_count": 13,
-    "language": "TypeScript",
-    "pushed_at": "2026-11-12T10:06:27Z",
-    "html_url": "https://github.com/shiaho777/pneuma-android"
-  },
-  {
     "name": "MacBottle",
     "description": null,
     "stargazers_count": 13,
     "forks_count": 0,
     "language": "Swift",
-    "pushed_at": "2026-11-11T14:53:37Z",
+    "pushed_at": "2026-11-17T04:17:46Z",
     "html_url": "https://github.com/shiaho777/MacBottle"
   },
   {
@@ -167,7 +167,7 @@
     "stargazers_count": 10,
     "forks_count": 1,
     "language": "Kotlin",
-    "pushed_at": "2026-11-16T18:08:53Z",
+    "pushed_at": "2026-11-17T04:37:18Z",
     "html_url": "https://github.com/shiaho777/vaultx"
   },
   {
@@ -239,7 +239,7 @@
     "stargazers_count": 4,
     "forks_count": 0,
     "language": "Kotlin",
-    "pushed_at": "2026-11-16T17:53:51Z",
+    "pushed_at": "2026-11-17T03:16:37Z",
     "html_url": "https://github.com/shiaho777/ailiaili"
   },
   {
@@ -256,8 +256,8 @@
     "description": "Unofficial Android port of DogSC — clean-room Compose recorder + editor",
     "stargazers_count": 0,
     "forks_count": 0,
-    "language": null,
-    "pushed_at": "2026-11-03T03:20:01Z",
+    "language": "Kotlin",
+    "pushed_at": "2026-11-17T09:27:35Z",
     "html_url": "https://github.com/shiaho777/dogsc-compose"
   },
   {
