@@ -2,8 +2,8 @@
   {
     "name": "WebToApp",
     "description": "Turn any website into an installable app across iOS, Android, Windows, macOS and Linux, and generate a sharing link.",
-    "stargazers_count": 196,
-    "forks_count": 42,
+    "stargazers_count": 199,
+    "forks_count": 44,
     "language": "Python",
     "pushed_at": "2026-11-18T09:04:31Z",
     "html_url": "https://github.com/shiaho777/WebToApp"
@@ -14,7 +14,7 @@
     "stargazers_count": 41,
     "forks_count": 2,
     "language": "Go",
-    "pushed_at": "2026-11-18T12:01:35Z",
+    "pushed_at": "2026-11-18T13:19:17Z",
     "html_url": "https://github.com/shiaho777/jseek"
   },
   {
@@ -41,7 +41,7 @@
     "stargazers_count": 29,
     "forks_count": 0,
     "language": "JavaScript",
-    "pushed_at": "2026-11-10T05:07:47Z",
+    "pushed_at": "2026-11-18T13:19:19Z",
     "html_url": "https://github.com/shiaho777/qsyy"
   },
   {
@@ -50,7 +50,7 @@
     "stargazers_count": 23,
     "forks_count": 8,
     "language": "Kotlin",
-    "pushed_at": "2026-11-18T09:38:19Z",
+    "pushed_at": "2026-11-18T14:47:40Z",
     "html_url": "https://github.com/shiaho777/andmx"
   },
   {
@@ -59,7 +59,7 @@
     "stargazers_count": 22,
     "forks_count": 2,
     "language": "Kotlin",
-    "pushed_at": "2026-11-18T11:59:33Z",
+    "pushed_at": "2026-11-18T14:37:28Z",
     "html_url": "https://github.com/shiaho777/WebViewIDE"
   },
   {
@@ -68,7 +68,7 @@
     "stargazers_count": 18,
     "forks_count": 0,
     "language": "Rust",
-    "pushed_at": "2026-11-18T11:57:23Z",
+    "pushed_at": "2026-11-18T13:07:54Z",
     "html_url": "https://github.com/shiaho777/revx"
   },
   {
@@ -167,7 +167,7 @@
     "stargazers_count": 10,
     "forks_count": 1,
     "language": "Kotlin",
-    "pushed_at": "2026-11-18T12:13:07Z",
+    "pushed_at": "2026-11-18T14:30:59Z",
     "html_url": "https://github.com/shiaho777/vaultx"
   },
   {
@@ -239,7 +239,7 @@
     "stargazers_count": 4,
     "forks_count": 0,
     "language": "Kotlin",
-    "pushed_at": "2026-11-18T12:02:25Z",
+    "pushed_at": "2026-11-18T15:14:31Z",
     "html_url": "https://github.com/shiaho777/ailiaili"
   },
   {
@@ -257,8 +257,17 @@
     "stargazers_count": 0,
     "forks_count": 0,
     "language": "Svelte",
-    "pushed_at": "2026-11-18T12:24:56Z",
+    "pushed_at": "2026-11-18T14:43:06Z",
     "html_url": "https://github.com/shiaho777/Liora"
+  },
+  {
+    "name": "pneuma",
+    "description": "Pneuma · 感情优先的 AI 角色世界：酒馆的深度，消费级的体验。本地优先，零遥测。",
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "language": "TypeScript",
+    "pushed_at": "2026-11-18T12:48:02Z",
+    "html_url": "https://github.com/shiaho777/pneuma"
   },
   {
     "name": "dogsc-compose",
@@ -268,15 +277,6 @@
     "language": "Kotlin",
     "pushed_at": "2026-11-18T11:43:01Z",
     "html_url": "https://github.com/shiaho777/dogsc-compose"
-  },
-  {
-    "name": "pneuma",
-    "description": "Pneuma · 感情优先的 AI 角色世界：酒馆的深度，消费级的体验。本地优先，零遥测。",
-    "stargazers_count": 0,
-    "forks_count": 0,
-    "language": "TypeScript",
-    "pushed_at": "2026-11-18T09:17:42Z",
-    "html_url": "https://github.com/shiaho777/pneuma"
   },
   {
     "name": "nixiang",
